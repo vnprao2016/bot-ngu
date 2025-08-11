@@ -1,0 +1,721 @@
+2025-08-08 12:36:58,209 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not found!
+2025-08-08 12:36:58,209 - __main__ - ERROR - Please set your Discord bot token in the .env file or environment variables.
+2025-08-08 12:37:09,904 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not found!
+2025-08-08 12:37:09,904 - __main__ - ERROR - Please set your Discord bot token in the .env file or environment variables.
+2025-08-08 12:39:24,558 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 12:39:24,560 - commands - INFO - All commands have been set up successfully
+2025-08-08 12:39:24,561 - __main__ - INFO - Starting Discord bot...
+2025-08-08 12:39:24,561 - discord.client - INFO - logging in using static token
+2025-08-08 12:39:25,267 - bot - WARNING - Bot disconnected from Discord
+2025-08-08 12:39:25,270 - __main__ - ERROR - An error occurred while running the bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-08-08 12:39:25,324 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 12:39:25,324 - commands - INFO - All commands have been set up successfully
+2025-08-08 12:39:25,325 - __main__ - INFO - Starting Discord bot...
+2025-08-08 12:39:25,325 - discord.client - INFO - logging in using static token
+2025-08-08 12:39:26,097 - bot - WARNING - Bot disconnected from Discord
+2025-08-08 12:39:26,105 - __main__ - ERROR - An error occurred while running the bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-08-08 12:39:31,222 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 12:39:31,223 - commands - INFO - All commands have been set up successfully
+2025-08-08 12:39:31,223 - __main__ - INFO - Starting Discord bot...
+2025-08-08 12:39:31,224 - discord.client - INFO - logging in using static token
+2025-08-08 12:39:32,014 - bot - WARNING - Bot disconnected from Discord
+2025-08-08 12:39:32,017 - __main__ - ERROR - An error occurred while running the bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-08-08 12:39:48,718 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 12:39:48,721 - commands - INFO - All commands have been set up successfully
+2025-08-08 12:39:48,722 - __main__ - INFO - Starting Discord bot...
+2025-08-08 12:39:48,723 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-08-08 12:39:48,723 - discord.client - INFO - logging in using static token
+2025-08-08 12:39:49,440 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 4b8a2afd7f35f70bc53bd3f0ef3fbe2d).
+2025-08-08 12:39:51,450 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 12:39:51,452 - bot - INFO - Bot is in 1 guilds
+2025-08-08 12:39:51,454 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 12:39:54,199 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 12:39:54,200 - commands - INFO - All commands have been set up successfully
+2025-08-08 12:39:54,200 - __main__ - INFO - Starting Discord bot...
+2025-08-08 12:39:54,200 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-08-08 12:39:54,200 - discord.client - INFO - logging in using static token
+2025-08-08 12:39:55,072 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a809698b28bfbd54ccf4a56e99a48006).
+2025-08-08 12:39:57,077 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 12:39:57,077 - bot - INFO - Bot is in 1 guilds
+2025-08-08 12:39:57,078 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 12:45:55,858 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 12:45:55,859 - commands - INFO - All commands have been set up successfully
+2025-08-08 12:45:55,859 - __main__ - INFO - Starting Discord bot...
+2025-08-08 12:45:55,859 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-08-08 12:45:55,860 - discord.client - INFO - logging in using static token
+2025-08-08 12:45:56,680 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 39e189791265fa6b4acbf8961046a40b).
+2025-08-08 12:45:58,692 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 12:45:58,695 - bot - INFO - Bot is in 1 guilds
+2025-08-08 12:45:58,695 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 12:46:02,036 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 12:46:02,037 - commands - INFO - All commands have been set up successfully
+2025-08-08 12:46:02,037 - __main__ - INFO - Starting Discord bot...
+2025-08-08 12:46:02,037 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-08-08 12:46:02,037 - discord.client - INFO - logging in using static token
+2025-08-08 12:46:02,798 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d6aba1a6e09d55c667a4ba1a1caea5e7).
+2025-08-08 12:46:04,804 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 12:46:04,804 - bot - INFO - Bot is in 1 guilds
+2025-08-08 12:46:04,805 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 12:47:27,506 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 12:47:27,507 - commands - INFO - All commands have been set up successfully
+2025-08-08 12:47:27,507 - __main__ - INFO - Starting Discord bot...
+2025-08-08 12:47:27,508 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-08-08 12:47:27,508 - discord.client - INFO - logging in using static token
+2025-08-08 12:47:28,277 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c20d6ebfd798b1d8f30c45774af3aeea).
+2025-08-08 12:47:30,284 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 12:47:30,285 - bot - INFO - Bot is in 1 guilds
+2025-08-08 12:47:30,285 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 12:49:10,148 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 12:49:10,150 - commands - INFO - All commands have been set up successfully
+2025-08-08 12:49:10,150 - __main__ - INFO - Starting Discord bot...
+2025-08-08 12:49:10,151 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-08-08 12:49:10,151 - discord.client - INFO - logging in using static token
+2025-08-08 12:49:10,679 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 12:49:10,681 - commands - INFO - All commands have been set up successfully
+2025-08-08 12:49:10,681 - __main__ - INFO - Starting Discord bot...
+2025-08-08 12:49:10,681 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-08-08 12:49:10,682 - discord.client - INFO - logging in using static token
+2025-08-08 12:49:10,848 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 825da5c795684d062cebaa0a9e2d2d49).
+2025-08-08 12:49:11,413 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 0bd13e6e3d3ca78f237895cbae5922ce).
+2025-08-08 12:49:12,882 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 12:49:12,882 - bot - INFO - Bot is in 1 guilds
+2025-08-08 12:49:12,882 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 12:49:13,427 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 12:49:13,427 - bot - INFO - Bot is in 1 guilds
+2025-08-08 12:49:13,428 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 13:05:59,215 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 13:05:59,217 - commands - INFO - All commands have been set up successfully
+2025-08-08 13:05:59,217 - __main__ - INFO - Starting Discord bot...
+2025-08-08 13:05:59,217 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-08-08 13:05:59,218 - discord.client - INFO - logging in using static token
+2025-08-08 13:06:00,002 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: fc28c0b268c3f260b468410f58c16d19).
+2025-08-08 13:06:00,280 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 13:06:00,281 - commands - INFO - All commands have been set up successfully
+2025-08-08 13:06:00,282 - __main__ - INFO - Starting Discord bot...
+2025-08-08 13:06:00,282 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-08-08 13:06:00,282 - discord.client - INFO - logging in using static token
+2025-08-08 13:06:01,143 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f425b5198b03a9aa018ef6518321be39).
+2025-08-08 13:06:02,007 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 13:06:02,007 - bot - INFO - Bot is in 1 guilds
+2025-08-08 13:06:02,008 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 13:06:03,147 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 13:06:03,148 - bot - INFO - Bot is in 1 guilds
+2025-08-08 13:06:03,148 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 13:09:33,432 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 13:09:33,434 - commands - INFO - All commands have been set up successfully
+2025-08-08 13:09:33,435 - __main__ - INFO - Starting Discord bot...
+2025-08-08 13:09:33,436 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-08-08 13:09:33,436 - discord.client - INFO - logging in using static token
+2025-08-08 13:09:33,853 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 13:09:33,855 - commands - INFO - All commands have been set up successfully
+2025-08-08 13:09:33,855 - __main__ - INFO - Starting Discord bot...
+2025-08-08 13:09:33,856 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-08-08 13:09:33,856 - discord.client - INFO - logging in using static token
+2025-08-08 13:09:34,392 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 13d6889480cec8e567e6f9b64cf03dac).
+2025-08-08 13:09:34,841 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: aeae53086a5d37447d3fdb22f6c7b021).
+2025-08-08 13:09:36,398 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 13:09:36,399 - bot - INFO - Bot is in 1 guilds
+2025-08-08 13:09:36,400 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 13:09:36,860 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 13:09:36,860 - bot - INFO - Bot is in 1 guilds
+2025-08-08 13:09:36,860 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 13:11:18,836 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 13:11:18,843 - commands - INFO - All commands have been set up successfully
+2025-08-08 13:11:18,845 - __main__ - INFO - Starting Discord bot...
+2025-08-08 13:11:18,849 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-08-08 13:11:18,850 - discord.client - INFO - logging in using static token
+2025-08-08 13:11:19,694 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 372198a7abf560911189aa364bccf1d2).
+2025-08-08 13:11:20,306 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 13:11:20,308 - commands - INFO - All commands have been set up successfully
+2025-08-08 13:11:20,308 - __main__ - INFO - Starting Discord bot...
+2025-08-08 13:11:20,309 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-08-08 13:11:20,309 - discord.client - INFO - logging in using static token
+2025-08-08 13:11:21,043 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8c99d759dd56908367445ef1268dfbbf).
+2025-08-08 13:11:21,701 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 13:11:21,703 - bot - INFO - Bot is in 1 guilds
+2025-08-08 13:11:21,704 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 13:11:23,048 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 13:11:23,049 - bot - INFO - Bot is in 1 guilds
+2025-08-08 13:11:23,049 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 13:12:27,645 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 13:12:27,648 - commands - INFO - All commands have been set up successfully
+2025-08-08 13:12:27,648 - __main__ - INFO - Starting Discord bot...
+2025-08-08 13:12:27,648 - discord.client - INFO - logging in using static token
+2025-08-08 13:12:28,404 - bot - WARNING - Bot disconnected from Discord
+2025-08-08 13:12:28,406 - __main__ - ERROR - An error occurred while running the bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-08-08 13:13:36,106 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 13:13:36,110 - commands - INFO - All commands have been set up successfully
+2025-08-08 13:13:36,111 - __main__ - INFO - Starting Discord bot...
+2025-08-08 13:13:36,112 - discord.client - INFO - logging in using static token
+2025-08-08 13:13:36,714 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 13:13:36,716 - commands - INFO - All commands have been set up successfully
+2025-08-08 13:13:36,719 - __main__ - INFO - Starting Discord bot...
+2025-08-08 13:13:36,722 - discord.client - INFO - logging in using static token
+2025-08-08 13:13:37,515 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 868ad5dc971013378cb23e220ca5f681).
+2025-08-08 13:13:38,548 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c7d38eca6c8b74b8705f72178bb74169).
+2025-08-08 13:13:39,520 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 13:13:39,521 - bot - INFO - Bot is in 1 guilds
+2025-08-08 13:13:39,521 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 13:13:40,571 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 13:13:40,571 - bot - INFO - Bot is in 1 guilds
+2025-08-08 13:13:40,572 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 13:27:42,925 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 13:27:42,927 - commands - INFO - All commands have been set up successfully
+2025-08-08 13:27:42,927 - __main__ - INFO - Starting Discord bot...
+2025-08-08 13:27:42,927 - discord.client - INFO - logging in using static token
+2025-08-08 13:27:43,838 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c65f7dd3dcb379aac46af788539b7f40).
+2025-08-08 13:27:45,842 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 13:27:45,843 - bot - INFO - Bot is in 1 guilds
+2025-08-08 13:27:45,843 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 13:30:00,970 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 13:30:00,971 - commands - INFO - All commands have been set up successfully
+2025-08-08 13:30:00,971 - __main__ - INFO - Starting Discord bot...
+2025-08-08 13:30:00,971 - discord.client - INFO - logging in using static token
+2025-08-08 13:30:01,983 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ddd19ad0735185a329c71f044d313b4a).
+2025-08-08 13:30:03,990 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 13:30:03,990 - bot - INFO - Bot is in 1 guilds
+2025-08-08 13:30:03,990 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 13:36:16,835 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 13:36:16,836 - commands - INFO - All commands have been set up successfully
+2025-08-08 13:36:16,837 - __main__ - INFO - Starting Discord bot...
+2025-08-08 13:36:16,837 - discord.client - INFO - logging in using static token
+2025-08-08 13:36:17,748 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: cd947f4dd3b4c3ce26e5ecebc43c6701).
+2025-08-08 13:36:19,754 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 13:36:19,755 - bot - INFO - Bot is in 1 guilds
+2025-08-08 13:36:19,756 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 13:36:28,841 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 13:36:28,842 - commands - INFO - All commands have been set up successfully
+2025-08-08 13:36:28,842 - __main__ - INFO - Starting Discord bot...
+2025-08-08 13:36:28,843 - discord.client - INFO - logging in using static token
+2025-08-08 13:36:29,325 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 13:36:29,326 - commands - INFO - All commands have been set up successfully
+2025-08-08 13:36:29,327 - __main__ - INFO - Starting Discord bot...
+2025-08-08 13:36:29,327 - discord.client - INFO - logging in using static token
+2025-08-08 13:36:29,609 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 96611425017be7e739329cd65526853c).
+2025-08-08 13:36:30,079 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 752df535857c945f6be8e87445088997).
+2025-08-08 13:36:31,615 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 13:36:31,615 - bot - INFO - Bot is in 1 guilds
+2025-08-08 13:36:31,616 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 13:36:32,084 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 13:36:32,086 - bot - INFO - Bot is in 1 guilds
+2025-08-08 13:36:32,086 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 13:44:01,284 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 13:44:01,285 - commands - INFO - All commands have been set up successfully
+2025-08-08 13:44:01,285 - __main__ - INFO - Starting Discord bot...
+2025-08-08 13:44:01,286 - discord.client - INFO - logging in using static token
+2025-08-08 13:44:02,041 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 57167925c6c85d2904ce46ce93df9ddf).
+2025-08-08 13:44:04,047 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 13:44:04,049 - bot - INFO - Bot is in 1 guilds
+2025-08-08 13:44:04,049 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 13:45:22,194 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 13:45:22,198 - commands - INFO - All commands have been set up successfully
+2025-08-08 13:45:22,204 - __main__ - INFO - Starting Discord bot...
+2025-08-08 13:45:22,205 - discord.client - INFO - logging in using static token
+2025-08-08 13:45:22,781 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 13:45:22,782 - commands - INFO - All commands have been set up successfully
+2025-08-08 13:45:22,782 - __main__ - INFO - Starting Discord bot...
+2025-08-08 13:45:22,783 - discord.client - INFO - logging in using static token
+2025-08-08 13:45:23,183 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 38935f8ae2e4706725bbb884448b87bc).
+2025-08-08 13:45:23,669 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 866212c92194cd880169f9341a682b6a).
+2025-08-08 13:45:25,189 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 13:45:25,189 - bot - INFO - Bot is in 1 guilds
+2025-08-08 13:45:25,189 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 13:45:25,676 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 13:45:25,676 - bot - INFO - Bot is in 1 guilds
+2025-08-08 13:45:25,677 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 13:52:54,189 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 13:52:54,190 - commands - INFO - All commands have been set up successfully
+2025-08-08 13:52:54,190 - __main__ - INFO - Starting Discord bot...
+2025-08-08 13:52:54,191 - discord.client - INFO - logging in using static token
+2025-08-08 13:52:54,894 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a46488df7164ee68654c3ffbfe6505f6).
+2025-08-08 13:52:56,899 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 13:52:56,899 - bot - INFO - Bot is in 1 guilds
+2025-08-08 13:52:56,900 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 13:54:04,055 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 13:54:04,057 - commands - INFO - All commands have been set up successfully
+2025-08-08 13:54:04,057 - __main__ - INFO - Starting Discord bot...
+2025-08-08 13:54:04,058 - discord.client - INFO - logging in using static token
+2025-08-08 13:54:04,604 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 13:54:04,605 - commands - INFO - All commands have been set up successfully
+2025-08-08 13:54:04,605 - __main__ - INFO - Starting Discord bot...
+2025-08-08 13:54:04,606 - discord.client - INFO - logging in using static token
+2025-08-08 13:54:04,807 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b4fab31b1f781708cd4eb6e2a11d8744).
+2025-08-08 13:54:05,626 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e47a59143959b40084ff416941691063).
+2025-08-08 13:54:06,812 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 13:54:06,812 - bot - INFO - Bot is in 1 guilds
+2025-08-08 13:54:06,813 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 13:54:07,631 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 13:54:07,631 - bot - INFO - Bot is in 1 guilds
+2025-08-08 13:54:07,632 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 14:09:14,795 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 14:09:14,800 - commands - INFO - All commands have been set up successfully
+2025-08-08 14:09:14,801 - __main__ - INFO - Starting Discord bot...
+2025-08-08 14:09:14,801 - discord.client - INFO - logging in using static token
+2025-08-08 14:09:14,861 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.126.66:8080
+2025-08-08 14:09:14,861 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-08 14:09:15,497 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 14:09:15,498 - commands - INFO - All commands have been set up successfully
+2025-08-08 14:09:15,499 - __main__ - INFO - Starting Discord bot...
+2025-08-08 14:09:15,499 - discord.client - INFO - logging in using static token
+2025-08-08 14:09:15,808 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e4dd2db31c07b9abd635bb4fdc5f279f).
+2025-08-08 14:09:16,127 - werkzeug - INFO - 172.31.126.66 - - [08/Aug/2025 14:09:16] "GET / HTTP/1.1" 200 -
+2025-08-08 14:09:16,174 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 72a58baf1cd2fc2a2f187818b314fe87).
+2025-08-08 14:09:17,814 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 14:09:17,814 - bot - INFO - Bot is in 1 guilds
+2025-08-08 14:09:17,815 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 14:09:18,185 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 14:09:18,185 - bot - INFO - Bot is in 1 guilds
+2025-08-08 14:09:18,186 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 14:09:20,976 - werkzeug - INFO - 172.31.126.66 - - [08/Aug/2025 14:09:20] "GET / HTTP/1.1" 200 -
+2025-08-08 14:14:37,185 - werkzeug - INFO - 172.31.126.66 - - [08/Aug/2025 14:14:37] "GET / HTTP/1.1" 200 -
+2025-08-08 14:17:18,591 - werkzeug - INFO - 172.31.126.66 - - [08/Aug/2025 14:17:18] "GET / HTTP/1.1" 200 -
+2025-08-08 14:17:18,926 - werkzeug - INFO - 172.31.126.66 - - [08/Aug/2025 14:17:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-08 14:17:57,633 - werkzeug - INFO - 172.31.126.66 - - [08/Aug/2025 14:17:57] "GET / HTTP/1.1" 200 -
+2025-08-08 14:36:14,595 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 14:36:14,600 - commands - INFO - All commands have been set up successfully
+2025-08-08 14:36:14,601 - __main__ - INFO - Starting Discord bot...
+2025-08-08 14:36:14,601 - discord.client - INFO - logging in using static token
+2025-08-08 14:36:14,652 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.114.130:8080
+2025-08-08 14:36:14,653 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-08 14:36:14,874 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 14:36:14,876 - commands - INFO - All commands have been set up successfully
+2025-08-08 14:36:14,876 - __main__ - INFO - Starting Discord bot...
+2025-08-08 14:36:14,877 - discord.client - INFO - logging in using static token
+2025-08-08 14:36:15,352 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: df71314b11e1e4c58c8ebdda93804bb2).
+2025-08-08 14:36:15,731 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1f369452b05e761108945c735e75a399).
+2025-08-08 14:36:15,919 - werkzeug - INFO - 172.31.114.130 - - [08/Aug/2025 14:36:15] "GET / HTTP/1.1" 200 -
+2025-08-08 14:36:17,374 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 14:36:17,374 - bot - INFO - Bot is in 1 guilds
+2025-08-08 14:36:17,375 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 14:36:17,738 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 14:36:17,738 - bot - INFO - Bot is in 1 guilds
+2025-08-08 14:36:17,738 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 14:36:24,178 - werkzeug - INFO - 172.31.114.130 - - [08/Aug/2025 14:36:24] "GET / HTTP/1.1" 200 -
+2025-08-08 14:36:34,582 - werkzeug - INFO - 172.31.114.130 - - [08/Aug/2025 14:36:34] "GET / HTTP/1.1" 200 -
+2025-08-08 14:37:36,820 - werkzeug - INFO - 172.31.114.130 - - [08/Aug/2025 14:37:36] "HEAD / HTTP/1.1" 200 -
+2025-08-08 14:42:40,161 - werkzeug - INFO - 172.31.114.130 - - [08/Aug/2025 14:42:40] "HEAD / HTTP/1.1" 200 -
+2025-08-08 14:47:45,054 - werkzeug - INFO - 172.31.114.130 - - [08/Aug/2025 14:47:45] "HEAD / HTTP/1.1" 200 -
+2025-08-08 15:02:30,711 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 15:02:30,719 - commands - INFO - All commands have been set up successfully
+2025-08-08 15:02:30,719 - __main__ - INFO - Starting Discord bot...
+2025-08-08 15:02:30,719 - discord.client - INFO - logging in using static token
+2025-08-08 15:02:30,768 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.124.130:8080
+2025-08-08 15:02:30,769 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-08 15:02:31,061 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 15:02:31,070 - commands - INFO - All commands have been set up successfully
+2025-08-08 15:02:31,070 - __main__ - INFO - Starting Discord bot...
+2025-08-08 15:02:31,071 - discord.client - INFO - logging in using static token
+2025-08-08 15:02:31,795 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 09dce1e31fe03f6d568b3c5b485e131e).
+2025-08-08 15:02:31,981 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b55d5f964580bfb24ba62c9e635ca68f).
+2025-08-08 15:02:32,349 - werkzeug - INFO - 172.31.124.130 - - [08/Aug/2025 15:02:32] "GET / HTTP/1.1" 200 -
+2025-08-08 15:02:32,542 - werkzeug - INFO - 172.31.124.130 - - [08/Aug/2025 15:02:32] "GET / HTTP/1.1" 200 -
+2025-08-08 15:02:33,812 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 15:02:33,812 - bot - INFO - Bot is in 1 guilds
+2025-08-08 15:02:33,813 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 15:02:34,014 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 15:02:34,014 - bot - INFO - Bot is in 1 guilds
+2025-08-08 15:02:34,015 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 15:03:30,025 - werkzeug - INFO - 172.31.124.130 - - [08/Aug/2025 15:03:30] "GET / HTTP/1.1" 200 -
+2025-08-08 15:03:44,763 - werkzeug - INFO - 172.31.124.130 - - [08/Aug/2025 15:03:44] "HEAD / HTTP/1.1" 200 -
+2025-08-08 15:08:49,056 - werkzeug - INFO - 172.31.124.130 - - [08/Aug/2025 15:08:49] "HEAD / HTTP/1.1" 200 -
+2025-08-08 15:13:53,035 - werkzeug - INFO - 172.31.124.130 - - [08/Aug/2025 15:13:53] "HEAD / HTTP/1.1" 200 -
+2025-08-08 15:15:29,718 - werkzeug - INFO - 172.31.124.130 - - [08/Aug/2025 15:15:29] "GET / HTTP/1.1" 200 -
+2025-08-08 15:15:29,805 - werkzeug - INFO - 172.31.124.130 - - [08/Aug/2025 15:15:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-08 15:15:29,879 - werkzeug - INFO - 172.31.124.130 - - [08/Aug/2025 15:15:29] "[33mGET /favicon.png HTTP/1.1[0m" 404 -
+2025-08-08 15:18:57,217 - werkzeug - INFO - 172.31.124.130 - - [08/Aug/2025 15:18:57] "HEAD / HTTP/1.1" 200 -
+2025-08-08 15:24:01,729 - werkzeug - INFO - 172.31.124.130 - - [08/Aug/2025 15:24:01] "HEAD / HTTP/1.1" 200 -
+2025-08-08 15:29:05,653 - werkzeug - INFO - 172.31.124.130 - - [08/Aug/2025 15:29:05] "HEAD / HTTP/1.1" 200 -
+2025-08-08 15:34:10,415 - werkzeug - INFO - 172.31.124.130 - - [08/Aug/2025 15:34:10] "HEAD / HTTP/1.1" 200 -
+2025-08-08 15:39:14,769 - werkzeug - INFO - 172.31.124.130 - - [08/Aug/2025 15:39:14] "HEAD / HTTP/1.1" 200 -
+2025-08-08 15:41:44,727 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 15:41:44,730 - commands - INFO - All commands have been set up successfully
+2025-08-08 15:41:44,730 - __main__ - INFO - Starting Discord bot...
+2025-08-08 15:41:44,731 - discord.client - INFO - logging in using static token
+2025-08-08 15:41:44,778 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.102.194:8080
+2025-08-08 15:41:44,779 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-08 15:41:45,565 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 15:41:45,567 - commands - INFO - All commands have been set up successfully
+2025-08-08 15:41:45,567 - __main__ - INFO - Starting Discord bot...
+2025-08-08 15:41:45,568 - discord.client - INFO - logging in using static token
+2025-08-08 15:41:45,706 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 4d077c6dad3a20e95e29d2ec9f1f3bbd).
+2025-08-08 15:41:46,204 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 15:41:46] "GET / HTTP/1.1" 200 -
+2025-08-08 15:41:46,371 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 98e3c5f74ce96548036e0e014cb60e70).
+2025-08-08 15:41:46,385 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 15:41:46] "GET / HTTP/1.1" 200 -
+2025-08-08 15:41:47,715 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 15:41:47,715 - bot - INFO - Bot is in 1 guilds
+2025-08-08 15:41:47,716 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 15:44:19,989 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 15:44:19] "HEAD / HTTP/1.1" 200 -
+2025-08-08 15:49:23,597 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 15:49:23] "HEAD / HTTP/1.1" 200 -
+2025-08-08 15:54:28,241 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 15:54:28] "HEAD / HTTP/1.1" 200 -
+2025-08-08 15:59:32,659 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 15:59:32] "HEAD / HTTP/1.1" 200 -
+2025-08-08 16:04:37,863 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 16:04:37] "HEAD / HTTP/1.1" 200 -
+2025-08-08 16:09:40,915 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 16:09:40] "HEAD / HTTP/1.1" 200 -
+2025-08-08 16:14:44,869 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 16:14:44] "HEAD / HTTP/1.1" 200 -
+2025-08-08 16:19:48,749 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 16:19:48] "HEAD / HTTP/1.1" 200 -
+2025-08-08 16:24:54,053 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 16:24:54] "HEAD / HTTP/1.1" 200 -
+2025-08-08 16:29:57,902 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 16:29:57] "HEAD / HTTP/1.1" 200 -
+2025-08-08 16:35:03,075 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 16:35:03] "HEAD / HTTP/1.1" 200 -
+2025-08-08 16:40:06,909 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 16:40:06] "HEAD / HTTP/1.1" 200 -
+2025-08-08 16:42:20,611 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 16:42:20] "GET / HTTP/1.1" 200 -
+2025-08-08 16:42:20,798 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 16:42:20] "GET / HTTP/1.1" 200 -
+2025-08-08 16:42:25,051 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 16:42:25] "GET / HTTP/1.1" 200 -
+2025-08-08 16:42:26,376 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 16:42:26] "GET / HTTP/1.1" 200 -
+2025-08-08 16:45:10,602 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 16:45:10] "HEAD / HTTP/1.1" 200 -
+2025-08-08 16:50:14,492 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 16:50:14] "HEAD / HTTP/1.1" 200 -
+2025-08-08 16:55:18,163 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 16:55:18] "HEAD / HTTP/1.1" 200 -
+2025-08-08 17:00:22,375 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 17:00:22] "HEAD / HTTP/1.1" 200 -
+2025-08-08 17:05:26,583 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 17:05:26] "HEAD / HTTP/1.1" 200 -
+2025-08-08 17:10:30,973 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 17:10:30] "HEAD / HTTP/1.1" 200 -
+2025-08-08 17:15:35,882 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 17:15:35] "HEAD / HTTP/1.1" 200 -
+2025-08-08 17:20:39,733 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 17:20:39] "HEAD / HTTP/1.1" 200 -
+2025-08-08 17:25:44,601 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 17:25:44] "HEAD / HTTP/1.1" 200 -
+2025-08-08 17:30:49,283 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 17:30:49] "HEAD / HTTP/1.1" 200 -
+2025-08-08 17:35:54,601 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 17:35:54] "HEAD / HTTP/1.1" 200 -
+2025-08-08 17:40:59,093 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 17:40:59] "HEAD / HTTP/1.1" 200 -
+2025-08-08 17:46:03,791 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 17:46:03] "HEAD / HTTP/1.1" 200 -
+2025-08-08 17:51:08,826 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 17:51:08] "HEAD / HTTP/1.1" 200 -
+2025-08-08 17:56:12,978 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 17:56:12] "HEAD / HTTP/1.1" 200 -
+2025-08-08 17:58:07,941 - bot - WARNING - Bot disconnected from Discord
+2025-08-08 17:58:08,205 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 4d077c6dad3a20e95e29d2ec9f1f3bbd.
+2025-08-08 17:58:08,205 - bot - INFO - Bot resumed connection to Discord
+2025-08-08 18:01:18,106 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 18:01:18] "HEAD / HTTP/1.1" 200 -
+2025-08-08 18:06:23,091 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 18:06:23] "HEAD / HTTP/1.1" 200 -
+2025-08-08 18:11:26,396 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 18:11:26] "HEAD / HTTP/1.1" 200 -
+2025-08-08 18:16:31,885 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 18:16:31] "HEAD / HTTP/1.1" 200 -
+2025-08-08 18:21:35,911 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 18:21:35] "HEAD / HTTP/1.1" 200 -
+2025-08-08 18:26:40,832 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 18:26:40] "HEAD / HTTP/1.1" 200 -
+2025-08-08 18:31:45,169 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 18:31:45] "HEAD / HTTP/1.1" 200 -
+2025-08-08 18:36:49,655 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 18:36:49] "HEAD / HTTP/1.1" 200 -
+2025-08-08 18:41:53,843 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 18:41:53] "HEAD / HTTP/1.1" 200 -
+2025-08-08 18:46:57,540 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 18:46:57] "HEAD / HTTP/1.1" 200 -
+2025-08-08 18:52:02,384 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 18:52:02] "HEAD / HTTP/1.1" 200 -
+2025-08-08 18:57:07,513 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 18:57:07] "HEAD / HTTP/1.1" 200 -
+2025-08-08 19:01:43,615 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 19:01:43,628 - __main__ - INFO - Starting Discord bot...
+2025-08-08 19:01:43,631 - discord.client - INFO - logging in using static token
+2025-08-08 19:01:43,672 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.102.194:8080
+2025-08-08 19:01:43,674 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-08 19:01:44,092 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 19:01:44,095 - __main__ - INFO - Starting Discord bot...
+2025-08-08 19:01:44,095 - discord.client - INFO - logging in using static token
+2025-08-08 19:01:44,592 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 727c1197f91a75a700ea4f5029964e68).
+2025-08-08 19:01:45,117 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:01:45] "GET / HTTP/1.1" 200 -
+2025-08-08 19:01:45,239 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c107a99869bf7768565b5c77f180a8ec).
+2025-08-08 19:01:45,349 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:01:45] "GET / HTTP/1.1" 200 -
+2025-08-08 19:01:45,893 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:01:45] "GET / HTTP/1.1" 200 -
+2025-08-08 19:01:46,615 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 19:01:46,616 - bot - INFO - Bot is in 1 guilds
+2025-08-08 19:01:46,616 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 19:02:12,821 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:02:12] "HEAD / HTTP/1.1" 200 -
+2025-08-08 19:04:40,602 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 19:04:40,605 - __main__ - INFO - Starting Discord bot...
+2025-08-08 19:04:40,606 - discord.client - INFO - logging in using static token
+2025-08-08 19:04:40,616 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.102.194:8080
+2025-08-08 19:04:40,616 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-08 19:04:41,256 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 19:04:41,259 - __main__ - INFO - Starting Discord bot...
+2025-08-08 19:04:41,260 - discord.client - INFO - logging in using static token
+2025-08-08 19:04:41,603 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 0c54ba84583c9390decc1ab0228326ca).
+2025-08-08 19:04:42,072 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:04:42] "GET / HTTP/1.1" 200 -
+2025-08-08 19:04:42,219 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 7db47c3183dbacf2c81a97c8f2d48631).
+2025-08-08 19:04:42,268 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:04:42] "GET / HTTP/1.1" 200 -
+2025-08-08 19:04:42,729 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:04:42] "GET / HTTP/1.1" 200 -
+2025-08-08 19:04:43,610 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 19:04:43,610 - bot - INFO - Bot is in 1 guilds
+2025-08-08 19:04:43,611 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 19:07:17,302 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:07:17] "HEAD / HTTP/1.1" 200 -
+2025-08-08 19:08:24,818 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 19:08:24,874 - __main__ - INFO - Starting Discord bot...
+2025-08-08 19:08:24,875 - discord.client - INFO - logging in using static token
+2025-08-08 19:08:24,884 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.102.194:8080
+2025-08-08 19:08:24,885 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-08 19:08:25,619 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 19:08:25,622 - __main__ - INFO - Starting Discord bot...
+2025-08-08 19:08:25,623 - discord.client - INFO - logging in using static token
+2025-08-08 19:08:25,673 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:08:25] "GET / HTTP/1.1" 200 -
+2025-08-08 19:08:25,816 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e3c8d5e6067c5adfdde1148565b5619c).
+2025-08-08 19:08:25,946 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:08:25] "GET / HTTP/1.1" 200 -
+2025-08-08 19:08:26,146 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:08:26] "GET / HTTP/1.1" 200 -
+2025-08-08 19:08:27,130 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 7ae42816b5c3dce70c84ecd8cc7d712b).
+2025-08-08 19:08:27,820 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 19:08:27,820 - bot - INFO - Bot is in 1 guilds
+2025-08-08 19:08:27,821 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 19:08:29,135 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 19:08:29,136 - bot - INFO - Bot is in 1 guilds
+2025-08-08 19:08:29,136 - bot - INFO - Connected to guild: Tuân Verse ✨ (ID: 1307021640026165330)
+2025-08-08 19:12:21,881 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:12:21] "HEAD / HTTP/1.1" 200 -
+2025-08-08 19:23:47,986 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 19:23:47,987 - __main__ - INFO - Starting Discord bot...
+2025-08-08 19:23:47,987 - discord.client - INFO - logging in using static token
+2025-08-08 19:23:48,001 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.102.194:8080
+2025-08-08 19:23:48,002 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-08 19:23:48,524 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 19:23:48,525 - __main__ - INFO - Starting Discord bot...
+2025-08-08 19:23:48,526 - discord.client - INFO - logging in using static token
+2025-08-08 19:23:48,678 - bot - ERROR - ❌ Failed to load extension commands: Extension 'commands' has no 'setup' function.
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 957, in _load_from_module_spec
+    setup = getattr(lib, 'setup')
+            ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'commands' has no attribute 'setup'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot.py", line 50, in setup_hook
+    await self.load_extension(ext)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 960, in _load_from_module_spec
+    raise errors.NoEntryPointError(key)
+discord.ext.commands.errors.NoEntryPointError: Extension 'commands' has no 'setup' function.
+2025-08-08 19:23:48,681 - bot - INFO - ✅ Loaded extension: announce
+2025-08-08 19:23:48,995 - bot - INFO - ✅ Synced 1 slash commands
+2025-08-08 19:23:49,075 - bot - ERROR - ❌ Failed to load extension commands: Extension 'commands' has no 'setup' function.
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 957, in _load_from_module_spec
+    setup = getattr(lib, 'setup')
+            ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'commands' has no attribute 'setup'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot.py", line 50, in setup_hook
+    await self.load_extension(ext)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 960, in _load_from_module_spec
+    raise errors.NoEntryPointError(key)
+discord.ext.commands.errors.NoEntryPointError: Extension 'commands' has no 'setup' function.
+2025-08-08 19:23:49,077 - bot - INFO - ✅ Loaded extension: announce
+2025-08-08 19:23:49,267 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:23:49] "GET / HTTP/1.1" 200 -
+2025-08-08 19:23:49,335 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a7c3ad80d7ef5a9e1f6f7682fc817fa1).
+2025-08-08 19:23:49,453 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:23:49] "GET / HTTP/1.1" 200 -
+2025-08-08 19:23:49,640 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:23:49] "GET / HTTP/1.1" 200 -
+2025-08-08 19:23:51,343 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 19:23:51,343 - bot - INFO - Bot is in 1 guild(s)
+2025-08-08 19:25:07,495 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 19:25:07,497 - __main__ - INFO - Starting Discord bot...
+2025-08-08 19:25:07,500 - discord.client - INFO - logging in using static token
+2025-08-08 19:25:07,518 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.102.194:8080
+2025-08-08 19:25:07,518 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-08 19:25:07,982 - bot - INFO - ✅ Loaded extension: commands
+2025-08-08 19:25:07,985 - bot - INFO - ✅ Loaded extension: announce
+2025-08-08 19:25:08,116 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:25:08] "GET / HTTP/1.1" 200 -
+2025-08-08 19:25:08,280 - bot - INFO - ✅ Synced 1 slash commands
+2025-08-08 19:25:08,300 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:25:08] "GET / HTTP/1.1" 200 -
+2025-08-08 19:25:08,487 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:25:08] "GET / HTTP/1.1" 200 -
+2025-08-08 19:25:08,535 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 19:25:08,535 - __main__ - INFO - Starting Discord bot...
+2025-08-08 19:25:08,536 - discord.client - INFO - logging in using static token
+2025-08-08 19:25:08,623 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 6a85f92878c1927b7838a3f65e296251).
+2025-08-08 19:25:09,157 - bot - INFO - ✅ Loaded extension: commands
+2025-08-08 19:25:09,158 - bot - INFO - ✅ Loaded extension: announce
+2025-08-08 19:25:10,632 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 19:25:10,632 - bot - INFO - Bot is in 1 guild(s)
+2025-08-08 19:27:35,381 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:27:35] "HEAD / HTTP/1.1" 200 -
+2025-08-08 19:29:34,109 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 19:29:34,110 - __main__ - INFO - Starting Discord bot...
+2025-08-08 19:29:34,111 - discord.client - INFO - logging in using static token
+2025-08-08 19:29:34,135 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.102.194:8080
+2025-08-08 19:29:34,136 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-08 19:29:34,562 - bot - INFO - ✅ Loaded extension: commands
+2025-08-08 19:29:34,565 - bot - INFO - ✅ Loaded extension: announce
+2025-08-08 19:29:34,877 - bot - INFO - ✅ Synced 1 slash commands
+2025-08-08 19:29:34,901 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:29:34] "GET / HTTP/1.1" 200 -
+2025-08-08 19:29:35,094 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:29:35] "GET / HTTP/1.1" 200 -
+2025-08-08 19:29:35,306 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:29:35] "GET / HTTP/1.1" 200 -
+2025-08-08 19:29:35,408 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: deab69a6051920c523159ddb371a33b5).
+2025-08-08 19:29:35,517 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 19:29:35,518 - __main__ - INFO - Starting Discord bot...
+2025-08-08 19:29:35,518 - discord.client - INFO - logging in using static token
+2025-08-08 19:29:37,414 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 19:29:37,417 - bot - INFO - Bot is in 1 guild(s)
+2025-08-08 19:32:40,094 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:32:40] "HEAD / HTTP/1.1" 200 -
+2025-08-08 19:33:24,284 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 19:33:24,285 - __main__ - INFO - Starting Discord bot...
+2025-08-08 19:33:24,285 - discord.client - INFO - logging in using static token
+2025-08-08 19:33:24,298 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.102.194:8080
+2025-08-08 19:33:24,300 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-08 19:33:24,916 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:33:24] "GET / HTTP/1.1" 200 -
+2025-08-08 19:33:24,974 - bot - INFO - ✅ Loaded extension: commands
+2025-08-08 19:33:24,977 - bot - INFO - ✅ Loaded extension: announce
+2025-08-08 19:33:25,113 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:33:25] "GET / HTTP/1.1" 200 -
+2025-08-08 19:33:25,279 - bot - INFO - ✅ Synced 1 slash commands
+2025-08-08 19:33:25,324 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:33:25] "GET / HTTP/1.1" 200 -
+2025-08-08 19:33:25,590 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 19:33:25,591 - __main__ - INFO - Starting Discord bot...
+2025-08-08 19:33:25,592 - discord.client - INFO - logging in using static token
+2025-08-08 19:33:25,612 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: eb27b5d4fcd317243735c8ec00990d34).
+2025-08-08 19:33:26,085 - bot - INFO - ✅ Loaded extension: commands
+2025-08-08 19:33:26,086 - bot - INFO - ✅ Loaded extension: announce
+2025-08-08 19:33:27,618 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 19:33:27,618 - bot - INFO - Bot is in 1 guild(s)
+2025-08-08 19:34:38,621 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-08 19:34:38,627 - __main__ - INFO - Starting Discord bot...
+2025-08-08 19:34:38,628 - discord.client - INFO - logging in using static token
+2025-08-08 19:34:38,653 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.102.194:8080
+2025-08-08 19:34:38,653 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-08 19:34:39,116 - bot - INFO - ✅ Loaded extension: commands
+2025-08-08 19:34:39,117 - bot - INFO - ✅ Loaded extension: announce
+2025-08-08 19:34:39,302 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:34:39] "GET / HTTP/1.1" 200 -
+2025-08-08 19:34:39,408 - bot - INFO - ✅ Synced 1 slash commands
+2025-08-08 19:34:39,489 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:34:39] "GET / HTTP/1.1" 200 -
+2025-08-08 19:34:39,677 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:34:39] "GET / HTTP/1.1" 200 -
+2025-08-08 19:34:39,850 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 3056f52de9a0ec94e524cbfa1d7beccd).
+2025-08-08 19:34:41,883 - bot - INFO - Bot Ngu#0263 has connected to Discord!
+2025-08-08 19:34:41,883 - bot - INFO - Bot is in 1 guild(s)
+2025-08-08 19:37:44,155 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:37:44] "HEAD / HTTP/1.1" 200 -
+2025-08-08 19:42:48,584 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:42:48] "HEAD / HTTP/1.1" 200 -
+2025-08-08 19:47:53,561 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:47:53] "HEAD / HTTP/1.1" 200 -
+2025-08-08 19:52:58,271 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:52:58] "HEAD / HTTP/1.1" 200 -
+2025-08-08 19:58:02,272 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 19:58:02] "HEAD / HTTP/1.1" 200 -
+2025-08-08 20:03:05,694 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 20:03:05] "HEAD / HTTP/1.1" 200 -
+2025-08-08 20:08:10,304 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 20:08:10] "HEAD / HTTP/1.1" 200 -
+2025-08-08 20:13:14,961 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 20:13:14] "HEAD / HTTP/1.1" 200 -
+2025-08-08 20:18:19,793 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 20:18:19] "HEAD / HTTP/1.1" 200 -
+2025-08-08 20:23:23,443 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 20:23:23] "HEAD / HTTP/1.1" 200 -
+2025-08-08 20:28:27,828 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 20:28:27] "HEAD / HTTP/1.1" 200 -
+2025-08-08 20:33:31,745 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 20:33:31] "HEAD / HTTP/1.1" 200 -
+2025-08-08 20:38:35,484 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 20:38:35] "HEAD / HTTP/1.1" 200 -
+2025-08-08 20:43:39,418 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 20:43:39] "HEAD / HTTP/1.1" 200 -
+2025-08-08 20:48:44,522 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 20:48:44] "HEAD / HTTP/1.1" 200 -
+2025-08-08 20:53:48,400 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 20:53:48] "HEAD / HTTP/1.1" 200 -
+2025-08-08 20:58:52,896 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 20:58:52] "HEAD / HTTP/1.1" 200 -
+2025-08-08 21:03:57,403 - werkzeug - INFO - 172.31.102.194 - - [08/Aug/2025 21:03:57] "HEAD / HTTP/1.1" 200 -
+2025-08-09 05:48:33,301 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-09 05:48:33,350 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.109.130:8080
+2025-08-09 05:48:33,351 - __main__ - INFO - 🚀 Starting self-bot (24/7 Online mode)...
+2025-08-09 05:48:33,351 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-09 05:48:33,351 - __main__ - ERROR - 💥 An error occurred while running the bot: Client.run() got an unexpected keyword argument 'bot'
+Traceback (most recent call last):
+  File "/home/runner/workspace/main.py", line 37, in main
+    bot.run(bot_token, bot=False)  # ⚠ bot=False cho self-bot
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Client.run() got an unexpected keyword argument 'bot'
+2025-08-09 05:48:34,141 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-09 05:48:34,144 - __main__ - INFO - 🚀 Starting self-bot (24/7 Online mode)...
+2025-08-09 05:48:34,144 - __main__ - ERROR - 💥 An error occurred while running the bot: Client.run() got an unexpected keyword argument 'bot'
+Traceback (most recent call last):
+  File "/home/runner/workspace/main.py", line 37, in main
+    bot.run(bot_token, bot=False)  # ⚠ bot=False cho self-bot
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Client.run() got an unexpected keyword argument 'bot'
+2025-08-09 05:49:51,854 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-09 05:49:51,854 - __main__ - INFO - 🚀 Starting self-bot (24/7 Online mode)...
+2025-08-09 05:49:51,855 - __main__ - ERROR - 💥 An error occurred while running the bot: Client.run() got an unexpected keyword argument 'bot'
+Traceback (most recent call last):
+  File "/home/runner/workspace/main.py", line 37, in main
+    bot.run(bot_token, bot=False)  # ⚠ bot=False cho self-bot
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Client.run() got an unexpected keyword argument 'bot'
+2025-08-09 05:49:52,422 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-09 05:49:52,424 - __main__ - INFO - 🚀 Starting self-bot (24/7 Online mode)...
+2025-08-09 05:49:52,424 - __main__ - ERROR - 💥 An error occurred while running the bot: Client.run() got an unexpected keyword argument 'bot'
+Traceback (most recent call last):
+  File "/home/runner/workspace/main.py", line 37, in main
+    bot.run(bot_token, bot=False)  # ⚠ bot=False cho self-bot
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Client.run() got an unexpected keyword argument 'bot'
+2025-08-09 05:51:04,780 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-09 05:51:04,781 - __main__ - INFO - 🚀 Starting self-bot (24/7 Online mode)...
+2025-08-09 05:51:04,781 - __main__ - ERROR - 💥 An error occurred while running the bot: Client.run() got an unexpected keyword argument 'bot'
+Traceback (most recent call last):
+  File "/home/runner/workspace/main.py", line 37, in main
+    bot.run(bot_token, bot=False)  # ⚠ bot=False cho self-bot
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Client.run() got an unexpected keyword argument 'bot'
+2025-08-09 05:51:06,855 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-09 05:51:06,855 - __main__ - INFO - 🚀 Starting self-bot (24/7 Online mode)...
+2025-08-09 05:51:06,855 - __main__ - ERROR - 💥 An error occurred while running the bot: Client.run() got an unexpected keyword argument 'bot'
+Traceback (most recent call last):
+  File "/home/runner/workspace/main.py", line 37, in main
+    bot.run(bot_token, bot=False)  # ⚠ bot=False cho self-bot
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Client.run() got an unexpected keyword argument 'bot'
+2025-08-09 05:51:57,888 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-09 05:51:57,889 - __main__ - INFO - 🚀 Starting self-bot (24/7 Online mode)...
+2025-08-09 05:51:57,890 - discord.client - INFO - logging in using static token
+2025-08-09 05:51:57,952 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.109.130:8080
+2025-08-09 05:51:57,953 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-09 05:51:58,532 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-09 05:51:58,533 - __main__ - INFO - 🚀 Starting self-bot (24/7 Online mode)...
+2025-08-09 05:51:58,534 - discord.client - INFO - logging in using static token
+2025-08-09 05:51:58,651 - werkzeug - INFO - 172.31.109.130 - - [09/Aug/2025 05:51:58] "GET / HTTP/1.1" 200 -
+2025-08-09 05:51:58,739 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 3662c758822834f303172a1fa9785c95).
+2025-08-09 05:51:58,839 - werkzeug - INFO - 172.31.109.130 - - [09/Aug/2025 05:51:58] "GET / HTTP/1.1" 200 -
+2025-08-09 05:51:59,024 - werkzeug - INFO - 172.31.109.130 - - [09/Aug/2025 05:51:59] "GET / HTTP/1.1" 200 -
+2025-08-09 05:51:59,300 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: edb4cdb7e8ae679c621982139f19d9b9).
+2025-08-09 05:52:00,761 - bot - INFO - ✅ Logged in as Bot Ngu#0263 (ID: 897692728127807529)
+2025-08-09 05:52:00,761 - bot - INFO - 💡 Self-bot is now keeping you online 24/7.
+2025-08-09 05:52:01,308 - bot - INFO - ✅ Logged in as Bot Ngu#0263 (ID: 897692728127807529)
+2025-08-09 05:52:01,308 - bot - INFO - 💡 Self-bot is now keeping you online 24/7.
+2025-08-09 05:52:01,562 - werkzeug - INFO - 172.31.109.130 - - [09/Aug/2025 05:52:01] "GET / HTTP/1.1" 200 -
+2025-08-09 05:52:02,001 - werkzeug - INFO - 172.31.109.130 - - [09/Aug/2025 05:52:02] "HEAD / HTTP/1.1" 200 -
+2025-08-09 05:55:02,045 - discord.gateway - INFO - Shard ID None session has been invalidated.
+2025-08-09 05:55:07,373 - __main__ - ERROR - 💥 An error occurred while running the bot: Shard ID None WebSocket closed with 4004
+Traceback (most recent call last):
+  File "/home/runner/workspace/main.py", line 37, in main
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/client.py", line 906, in run
+    asyncio.run(runner())
+  File "/nix/store/7d088dip86hlzri9sk0h78b63yfmx0a0-python3-3.11.13/lib/python3.11/asyncio/runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/nix/store/7d088dip86hlzri9sk0h78b63yfmx0a0-python3-3.11.13/lib/python3.11/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nix/store/7d088dip86hlzri9sk0h78b63yfmx0a0-python3-3.11.13/lib/python3.11/asyncio/base_events.py", line 654, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/client.py", line 895, in runner
+    await self.start(token, reconnect=reconnect)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/client.py", line 824, in start
+    await self.connect(reconnect=reconnect)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/client.py", line 704, in connect
+    await self.ws.poll_event()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/gateway.py", line 650, in poll_event
+    raise ConnectionClosed(self.socket, shard_id=self.shard_id, code=code) from None
+discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 4004

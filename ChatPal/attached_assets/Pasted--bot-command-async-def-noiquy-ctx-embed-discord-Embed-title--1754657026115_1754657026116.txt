@@ -1,0 +1,70 @@
+@bot.command()
+async def noiquy(ctx):
+    embed = discord.Embed(
+        title="🌸🌟 ︵‿︵‿︵‿︵‿︵‿︵ 🌟🌸",
+        description="🎀 **𝗡𝗢̣̂𝗜 𝗤𝗨𝗬** 🎀",
+        color=0xFFC0CB  # Màu hồng pastel dễ thương
+    )
+    embed.add_field(name="\u200b", value="🌸🌟 ︵‿︵‿︵‿︵‿︵‿︵ 🌟🌸", inline=False)
+
+    embed.add_field(name="1️⃣ 🐰🤝 𝗧𝗼̂𝗻 𝘁𝗿𝗼̣𝗻𝗴 𝗹𝗮̀ 𝗰𝗵𝗶̀𝗮 𝗸𝗵𝗼́𝗮",
+                    value="Hãy đối xử tử tế và lịch sự với mọi người.\n"
+                          "Không toxic, không cà khịa quá đà, không “khịa cho vui” gây mất hòa khí.\n"
+                          "Nếu không chắc câu nói có khiến người khác khó chịu không → Đừng nói!",
+                    inline=False)
+
+    embed.add_field(name="2️⃣ 🚫💬 𝗞𝗵𝗼̂𝗻𝗴 𝘀𝗽𝗮𝗺 & 𝗴𝗮̂𝘆 𝗿𝗼̂́𝗶",
+                    value="Không spam tin nhắn, emoji, hình ảnh hoặc ping liên tục.\n"
+                          "Spam = mute, làm loạn nhiều lần = bay màu khỏi server.\n"
+                          "Giữ cuộc trò chuyện gọn gàng và dễ theo dõi.",
+                    inline=False)
+
+    embed.add_field(name="3️⃣ 🐼📌 𝗡𝗼̣̂𝗶 𝗱𝘂́𝗻𝗴 𝗰𝗵𝘂̉ 𝗱𝗲̂̀",
+                    value="Mỗi kênh có mục đích riêng, hãy chat/gửi hình đúng kênh.\n"
+                          "Đừng biến kênh hỗ trợ thành kênh chém gió hay ngược lại.\n"
+                          "Mod sẽ xóa tin nhắn nếu bạn gửi sai kênh quá nhiều.",
+                    inline=False)
+
+    embed.add_field(name="4️⃣ 🌈❤️ 𝗞𝗵𝗼̂𝗻𝗴 𝗽𝗵𝗮̂𝗻 𝗯𝗶𝗲̣̂𝘁 𝗵𝗼𝗮̣̆𝗰 𝗵𝗮̣ 𝗻𝗵𝗼̣",
+                    value="Không phân biệt vùng miền, giới tính, tôn giáo, quốc tịch…\n"
+                          "Mọi người đều bình đẳng và đáng được tôn trọng.\n"
+                          "Ai vi phạm sẽ bị cảnh cáo công khai hoặc kick.",
+                    inline=False)
+
+    embed.add_field(name="5️⃣ 🐶🔞 𝗞𝗵𝗼̂𝗻𝗴 𝗻𝗼̣̂𝗶 𝗱𝘂̣𝗰 / 𝗻𝗼̣̂𝗶 𝗱𝘂̛̀𝗻𝗴 𝟭𝟴+",
+                    value="Cấm tuyệt đối nội dung phản cảm, khiêu gợi, 18+, hoặc vi phạm pháp luật.\n"
+                          "Không đăng ảnh, video, link, hoặc gợi ý nội dung 18+.\n"
+                          "Vi phạm = kick/ban ngay lập tức, không nhắc lại.",
+                    inline=False)
+
+    embed.add_field(name="6️⃣ 🎭🙅 𝗞𝗵𝗼̂𝗻𝗴 𝗺𝗮̣𝗼 𝗱𝗮𝗻𝗵",
+                    value="Không giả mạo tên, avatar, hoặc role của người khác (đặc biệt là staff).\n"
+                          "Không sử dụng nickname để gây hiểu lầm.\n"
+                          "Nếu cố tình mạo danh → Ban vĩnh viễn.",
+                    inline=False)
+
+    embed.add_field(name="7️⃣ 📢🦊 𝗕𝗮́𝗼 𝗰𝗮́𝗼 𝗸𝗵𝗶 𝘁𝗵𝗮̂́𝘆 𝘃𝗶 𝗽𝗵𝗮̣𝗺",
+                    value="Nếu thấy hành vi xấu hoặc ai đó phá server, hãy báo ngay cho Mod/Admin.\n"
+                          "Có thể tạo ticket hoặc nhắn trực tiếp cho staff.\n"
+                          "Đừng tự ý xử lý theo cách tiêu cực.",
+                    inline=False)
+
+    embed.add_field(name="8️⃣ 💬🌱 𝗡𝗴𝗼̂𝗻 𝗻𝗴𝘂̛̃ 𝘃𝗮̀ 𝗰𝗮́𝗰𝗵 𝘃𝗶𝗲̂́𝘁",
+                    value="Ưu tiên tiếng Việt hoặc tiếng Anh, hạn chế “ngôn ngữ hành tinh” hoặc teencode quá mức.\n"
+                          "Giữ câu chữ dễ hiểu để mọi người cùng tham gia trò chuyện.",
+                    inline=False)
+
+    embed.add_field(name="9️⃣ 📵🐤 𝗞𝗵𝗼̂𝗻𝗴 𝗾𝘂𝗮̉𝗻𝗴 𝗰𝗮́𝗼 𝗯𝘂̀𝗮 𝗯𝗮̃𝗶",
+                    value="Không gửi link quảng cáo, mời server khác, bán hàng… nếu chưa được phép.\n"
+                          "Ai vi phạm sẽ bị xóa tin nhắn và cảnh cáo, tái phạm = kick/ban.",
+                    inline=False)
+
+    embed.add_field(name="🔟 🌟🎉 𝗩𝘂𝗶 𝘃𝗲̉, 𝗵𝗼̀𝗮 𝗱𝗼̂̀𝗻𝗴, 𝗰𝘂̀𝗻𝗴 𝗻𝗵𝗮𝘂 𝗹𝗮̀𝗺 𝗻𝗮̂𝗻𝗴 𝗰𝗮̉ 𝘀𝗲𝗿𝘃𝗲𝗿",
+                    value=f"Hãy tạo bầu không khí thoải mái, tích cực.\n"
+                          f"Giúp đỡ nhau, tham gia event, trò chuyện và kết bạn.\n"
+                          f"**{ctx.guild.name}** là nhà của tất cả chúng ta!",
+                    inline=False)
+
+    embed.add_field(name="\u200b", value="🌸🌟 ︵‿︵‿︵‿︵‿︵‿︵ 🌟🌸", inline=False)
+
+    await ctx.send(embed=embed)
