@@ -1,0 +1,6 @@
+flask
+discord.py
+requests
+websockets
+colorama
+python-dotenv
